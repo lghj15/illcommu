@@ -1,0 +1,17 @@
+.summary {
+  font-weight: bold;
+  font-size: 1.7rem;
+}
+.fuckPoint {
+  font-weight: bold;
+  font-size: 1rem;
+}
+.description {
+  margin-top: 1rem;
+  margin-right: 2rem;
+  margin-left: 2rem;
+  background-color: rgb(248, 247, 247);
+  border-radius: 20px;
+  border: 3px gray solid;
+  box-shadow: 5px 5px 5px 5px gray;
+}

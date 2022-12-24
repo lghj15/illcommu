@@ -1,0 +1,33 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: balck;
+  font-weight: bold;
+  font-size: 1.5rem;
+  height: 3.5rem;
+  border: 5px solid lightblue;
+  border-radius: 1rem;
+}
+.header:first-child {
+  padding-left: 1rem;
+  padding-top: 0.5rem;
+}
+body {
+  margin: 0;
+}
+.kian {
+  padding-right: 0.7rem;
+}
+.nav {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 5rem;
+}
+.link {
+  text-decoration: none;
+  color: black;
+  border-style: none;
+  font-weight: bold;
+  font-size: 2rem;
+}
